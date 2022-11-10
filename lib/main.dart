@@ -130,7 +130,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: Padding(
-        padding: const EdgeInsets.only(left: 20),
+        padding: const EdgeInsets.only(left: 40),
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.end,
           children: [
